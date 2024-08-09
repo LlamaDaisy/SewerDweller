@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RatEnemy
+  - SlimeEnemy
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Enemies
+  - Platform
+  - 
+  - MovingPlatform
+  - Foreground
+  - Gem
+  - Health
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BaseLayer
+    uniqueID: 651831987
+    locked: 0
+  - name: Background
+    uniqueID: 167136179
+    locked: 0
+  - name: Platforms
+    uniqueID: 1104195923
+    locked: 0
+  - name: Ladders_Interactables
+    uniqueID: 3150001411
+    locked: 0
+  - name: Player
+    uniqueID: 2898015933
+    locked: 0
+  - name: Enemies
+    uniqueID: 3292453497
+    locked: 0
+  - name: Collectables
+    uniqueID: 1401378841
+    locked: 0
+  - name: Pipes
+    uniqueID: 1205456707
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Interactables
+    uniqueID: 3082707221
+    locked: 0
+  - name: Foreground
+    uniqueID: 835022917
+    locked: 0
+  - name: UI
+    uniqueID: 2850145873
+    locked: 0
